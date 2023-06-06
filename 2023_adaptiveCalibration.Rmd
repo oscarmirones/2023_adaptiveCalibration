@@ -55,7 +55,7 @@ install_github(c("SantanderMetGroup/loadeR.java@1.1.1",
                  "SantanderMetGroup/loadeR@1.7.0",
                  "SantanderMetGroup/transformeR@time_res",
                  "SantanderMetGroup/visualizeR",
-                 "SantanderMetGroup/downscaleR@oscar_devel",
+                 "SantanderMetGroup/downscaleR@3.3.3",
                  "SantanderMetGroup/climate4R.value"))
 ```
 
